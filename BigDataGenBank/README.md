@@ -24,6 +24,7 @@ Manage general statistics (number of genomes, number of genes, number of trinucl
 Graphical user interface:
  - show the local tree structure.
  - give a progress bar of the program and an estimated time calculation (MANDATORY).
+
 IMPORTANT: It is imperative to avoid that your program gets stuck on data that are not available in the Excel file. data, an incomplete genome without data, or a download (transfer management, by for example by setting a time delay).
 The important points of the program must be commented on, in particular the web tags must be mentioned in the accesses to the different web pages.
 

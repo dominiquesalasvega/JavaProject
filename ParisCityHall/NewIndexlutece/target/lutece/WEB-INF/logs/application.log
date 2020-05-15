@@ -1,0 +1,92 @@
+28/08/19 15:24:50 INFO  [Lutece-MainThread] lutece.event - Lutece logs initialized, using configured property files to define levels and appenders.
+28/08/19 15:24:50 INFO  [Lutece-MainThread] lutece.event - Starting LUTECE ...
+28/08/19 15:24:50 INFO  [Lutece-MainThread] lutece.event - Running version 6.1.2
+28/08/19 15:24:51 INFO  [Lutece-MainThread] lutece.event - Creating connexions pool 'portal'.
+28/08/19 15:24:51 INFO  [Lutece-MainThread] lutece.event - Loading context files ...
+28/08/19 15:24:52 INFO  [Lutece-MainThread] lutece.event - Context file loaded : core_context.xml
+28/08/19 15:24:52 INFO  [Lutece-MainThread] lutece.event - Context file loaded : lucene_context.xml
+28/08/19 15:24:52 INFO  [Lutece-MainThread] lutece.event - Loading plugins context overrides
+28/08/19 15:24:53 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.cache.PathCacheService
+28/08/19 15:24:54 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.page.PageService
+28/08/19 15:24:54 INFO  [Lutece-MainThread] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.page.PageService
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Spring context loaded in 3688ms
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Running extra startup services ...
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Initializing plugins ...
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : search
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New XPage application registered : map
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New search indexer registered : PageIndexer
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New search indexer registered : MyPageIndexer
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New search indexer registered : projetIndexer
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New search indexer registered : xPageIndexer
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : main_menu
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : tree_menu
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : links
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : metas
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : statistics
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Page Include Service registered : themes
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Dashboard Component registered : CORE_SYSTEM
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Dashboard Component registered : CORE_USERS
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Dashboard Component registered : CORE_USER
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Dashboard Component registered : CORE_PAGES
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Admin Dashboard Component registered : usersAdminDashboardComponent
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Admin Dashboard Component registered : searchAdminDashboardComponent
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : PAGE
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : PORTLET_TYPE
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : INSERT_SERVICE
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : ADMIN_USER
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : SEARCH_SERVICE
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : GLOBAL_MANAGEMENT_SERVICE
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New RBAC resource type registered : XSL_EXPORT
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Daemon registered : indexer
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Daemon registered : mailSender
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Daemon registered : anonymizationDaemon
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Daemon registered : accountLifeTimeDaemon
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Daemon registered : threadLauncherDaemon
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - SpringService cache cleared due to a plugin installation change - Plugin : core
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New Plugin registered : lucene
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Initializing plugins filters ...
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Initialize plugins filters
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Initializing plugins servlets ...
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Initialize plugins servlets
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Content Service 'XPageAppService' is loaded  [ cache disable ] 
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Content Service 'Page Content Service' is loaded  [ cache disable ] 
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New freemarker autoinclude : */commons.html from core
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New freemarker autoinclude : */commons_site.html from core
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Scheduling daemon mailSender; first run in 10 seconds
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Scheduling daemon threadLauncherDaemon; first run in 20 seconds
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Scheduling daemon accountLifeTimeDaemon; first run in 30 seconds
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Authentication module loaded : LUTECE DEFAULT AUTHENTICATION
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - New ImageResourceType registered : fr.paris.lutece.portal.service.fileimage.FileImageService
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Running post startup services ...
+28/08/19 15:24:55 INFO  [Lutece-MainThread] lutece.event - Datastore's cache started.
+28/08/19 15:24:56 INFO  [http-nio-8080-exec-1] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.cache.FullPageCachingService
+28/08/19 15:24:56 INFO  [http-nio-8080-exec-2] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.cache.FullPageCachingService
+28/08/19 15:24:58 INFO  [http-nio-8080-exec-2] lutece.event - LocaleService : default locale set to : fr
+28/08/19 15:24:58 INFO  [http-nio-8080-exec-2] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.portal.PortalMenuService
+28/08/19 15:25:01 INFO  [http-nio-8080-exec-6] lutece.event - New Page Event Listener registered : fr.paris.lutece.portal.service.cache.HeadersPageCachingFilter
+28/08/19 15:25:05 INFO  [Lutece-Daemons-Coordinator] lutece.event - New Scheduled Thread added to the pool for daemons. Index:1
+28/08/19 15:25:05 INFO  [Lutece-Daemon-mailSender] lutece.event - Daemon mailSender - starts processing.
+28/08/19 15:25:05 INFO  [Lutece-Daemon-mailSender] lutece.event - Daemon mailSender - end of process.
+28/08/19 15:25:15 INFO  [Lutece-Daemon-threadLauncherDaemon] lutece.event - Daemon threadLauncherDaemon - starts processing.
+28/08/19 15:25:15 INFO  [Lutece-Daemon-threadLauncherDaemon] lutece.event - Daemon threadLauncherDaemon - end of process.
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - Daemon accountLifeTimeDaemon - starts processing.
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - AccountLifeTimeDaemon - No expired admin user found
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - AccountLifeTimeDaemon - First alert deactivated, skipping
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - AccountLifeTimeDaemon - Other alerts deactivated, skipping
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - AccountLifeTimeDaemon - Expired passwords notification deactivated, skipping
+28/08/19 15:25:25 INFO  [Lutece-Daemon-accountLifeTimeDaemon] lutece.event - Daemon accountLifeTimeDaemon - end of process.
+28/08/19 15:25:48 INFO  [http-nio-8080-exec-7] lutece.event - Mode : Full chosen
+28/08/19 15:25:48 INFO  [http-nio-8080-exec-7] lutece.event - Initialization Indexer : PageIndexer Done
+28/08/19 15:25:49 INFO  [http-nio-8080-exec-7] lutece.event - Mode : Full chosen
+28/08/19 15:25:49 INFO  [http-nio-8080-exec-7] lutece.event - Initialization Indexer : projetIndexer Done
+28/08/19 15:25:51 INFO  [http-nio-8080-exec-7] lutece.event - Mode : Full chosen
+28/08/19 15:25:51 INFO  [http-nio-8080-exec-7] lutece.event - Initialization Indexer : xPageIndexer Done
+28/08/19 15:25:51 INFO  [http-nio-8080-exec-7] lutece.event - Starting Full Indexing
+28/08/19 15:25:51 INFO  [http-nio-8080-exec-7] lutece.event - Full Indexing for Indexer : MyPageIndexer Done
+28/08/19 15:25:51 INFO  [http-nio-8080-exec-7] lutece.event - Full Indexing for Indexer : PageIndexer Done
+28/08/19 15:26:18 INFO  [http-nio-8080-exec-7] lutece.event - Full Indexing for Indexer : projetIndexer Done
+28/08/19 15:26:44 INFO  [http-nio-8080-exec-7] lutece.event - Full Indexing for Indexer : xPageIndexer Done
+28/08/19 15:26:44 INFO  [http-nio-8080-exec-7] lutece.event - End Full Indexing
+28/08/19 15:28:29 INFO  [Lutece-MainThread] lutece.event - Lutece daemons scheduler stop requested : trying to terminate gracefully daemons list (max wait 15 s).
+28/08/19 15:28:29 INFO  [Lutece-MainThread] lutece.event - All daemons shutdown successfully.
+28/08/19 15:28:29 INFO  [Lutece-MainThread] lutece.event - Application stopped

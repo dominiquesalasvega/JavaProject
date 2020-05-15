@@ -1,0 +1,2 @@
+28/08/19 15:25:10 USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/index/jsp/admin/search/ManageSearchIndexation.jsp?plugin_name=
+28/08/19 15:26:44 USER id:1, name: admin Admin, ip: 0:0:0:0:0:0:0:1, url: http://localhost:8080/index/jsp/admin/search/DoIndexing.jsp?indexation_mode=full&token=4bb20c52-7ae3-4b33-855d-52087686e00f&indexer_name=all_indexer

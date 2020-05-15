@@ -2,10 +2,6 @@
 
 I worked with the framework Lutece.
 
-# Sitedemo 
-
-The demo of the site was a test at the beginning of the course to introduce me to the Lutece framework.
-
 # AddressProject 
 
 AddressProject/lutece-tech-plugin-address/src/java/fr/paris/lutece/plugins/address/service/RestAddressService.java
